@@ -6,7 +6,7 @@
   url = https://github.com/pybind/pybind11.git
 [submodule "3rd/abseil"]
   path = 3rd/abseil
-  url = https://github.com/MF0773/abseil-cpp
+  url = https://github.com/MF0773/abseil-cpp.git
 [submodule "3rd/Catch2"]
   path = 3rd/Catch2
   url = https://github.com/catchorg/Catch2.git
